@@ -1,0 +1,78 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --colors-black: #0f0f0f;
+  --colors-white: #fafafa;
+  --colors-orange-100: #f5f7f4;
+  --colors-orange-200: #e8eddf;
+  --colors-orange-300: #d0ddc3;
+  --colors-orange-400: #b0c49c;
+  --colors-orange-500: #8ba571;
+  --colors-orange-600: #6b8556;
+  --colors-orange-700: #536946;
+  --colors-orange-800: #40533a;
+  --colors-orange-900: #2e3d29;
+  --colors-coral-100: #fef3f1;
+  --colors-coral-200: #fde2dd;
+  --colors-coral-300: #fbc4b7;
+  --colors-coral-400: #f7987f;
+  --colors-coral-500: #f16b4c;
+  --colors-coral-600: #e84a2d;
+  --colors-coral-700: #c33621;
+  --colors-coral-800: #a12a1c;
+  --colors-coral-900: #84231b;
+  --colors-lavender-100: #f8f6ff;
+  --colors-lavender-200: #ede8ff;
+  --colors-lavender-300: #d8ccff;
+  --colors-lavender-400: #bb9eff;
+  --colors-lavender-500: #9b6bff;
+  --colors-lavender-600: #8043ff;
+  --colors-lavender-700: #6b2fff;
+  --colors-lavender-800: #5722cc;
+  --colors-lavender-900: #481ca6;
+  --dimensions-0: 0px;
+  --dimensions-1: 4px;
+  --dimensions-2: 8px;
+  --dimensions-3: 12px;
+  --dimensions-4: 16px;
+  --dimensions-5: 20px;
+  --dimensions-6: 24px;
+  --dimensions-7: 28px;
+  --dimensions-8: 32px;
+  --dimensions-9: 36px;
+  --dimensions-10: 40px;
+  --dimensions-11: 44px;
+  --dimensions-12: 48px;
+  --dimensions-13: 52px;
+  --dimensions-14: 56px;
+  --dimensions-15: 60px;
+  --dimensions-max: 9999px;
+  --text-typography-heading: extra-bold 28px/1.8 'Open Sans', sans-serif;
+  --text-typography-body: regular 16px/1.2 'Times New Roman', serif;
+  --text-fonts-serif: 'Times New Roman', serif;
+  --text-fonts-sans: 'Open Sans', sans-serif;
+  --text-sizes-heading: 28px;
+  --text-sizes-body: 16px;
+  --text-weights-light: thin;
+  --text-weights-regular: regular;
+  --text-weights-bold: extra-bold;
+  --text-line-heights-normal: 1.2;
+  --text-line-heights-large: 1.8;
+  --transitions-emphasis: 300ms cubic-bezier(0.5, 0, 1, 1) 0ms;
+  --transitions-fade: 600ms cubic-bezier(0, 0, 0.5, 1) 0ms;
+  --transitions-easing-functions-accelerate: cubic-bezier(0.5, 0, 1, 1);
+  --transitions-easing-functions-decelerate: cubic-bezier(0, 0, 0.5, 1);
+  --transitions-durations-instant: 0ms;
+  --transitions-durations-short: 100ms;
+  --transitions-durations-medium: 300ms;
+  --transitions-durations-long: 600ms;
+  --borders-heavy: 4px solid #0f0f0f;
+  --borders-wireframe: 8px dashed #6b8556;
+  --borders-styles-solid: solid;
+  --borders-styles-dashed: dashed;
+  --shadows-sm: 0px 4px 12px #0f0f0f;
+  --shadows-lg: 0px 8px 16px #0f0f0f;
+  --shadows-multi: 0px 4px 12px #0f0f0f, 0px 8px 16px #0f0f0f;
+}

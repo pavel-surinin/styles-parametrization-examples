@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Design Tokens Showcase</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: var(--text-fonts-sans);
+            font-size: var(--text-sizes-body);
+            line-height: var(--text-line-heights-normal);
+            background: var(--colors-black);
+            color: var(--colors-white);
+            padding: var(--dimensions-8);
+        }
+
+        h1 {
+            font: var(--text-typography-heading);
+            color: var(--colors-lavender-500);
+            margin-bottom: var(--dimensions-6);
+            font-size: var(--text-sizes-heading);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: var(--dimensions-6);
+        }
+
+        .card {
+            padding: var(--dimensions-5);
+            border: var(--borders-heavy);
+            border-radius: var(--dimensions-2);
+            box-shadow: var(--shadows-sm);
+            background: var(--colors-orange-900);
+            transition: var(--transitions-fade);
+        }
+
+        .card:hover {
+            box-shadow: var(--shadows-lg);
+            transform: translateY(-2px);
+            transition: var(--transitions-emphasis);
+        }
+
+        .swatch {
+            width: var(--dimensions-12);
+            height: var(--dimensions-12);
+            border-radius: var(--dimensions-max);
+            margin-bottom: var(--dimensions-3);
+            border: var(--borders-wireframe);
+        }
+
+        .label {
+            font: var(--text-typography-body);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Design Tokens Showcase</h1>
+    <section class="grid">
+        <div class="card">
+            <div class="swatch" style="background: var(--colors-orange-500);"></div>
+            <div class="label">--colors-orange-500</div>
+        </div>
+        <div class="card">
+            <div class="swatch" style="background: var(--colors-coral-500);"></div>
+            <div class="label">--colors-coral-500</div>
+        </div>
+        <div class="card">
+            <div class="swatch" style="background: var(--colors-lavender-500);"></div>
+            <div class="label">--colors-lavender-500</div>
+        </div>
+    </section>
+</body>
+
+</html>

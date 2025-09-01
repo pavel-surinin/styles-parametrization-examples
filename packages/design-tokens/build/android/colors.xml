@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="colors_black">#ff0f0f0f</color>
+  <color name="colors_white">#fffafafa</color>
+  <color name="colors_orange_100">#fff5f7f4</color>
+  <color name="colors_orange_200">#ffe8eddf</color>
+  <color name="colors_orange_300">#ffd0ddc3</color>
+  <color name="colors_orange_400">#ffb0c49c</color>
+  <color name="colors_orange_500">#ff8ba571</color>
+  <color name="colors_orange_600">#ff6b8556</color>
+  <color name="colors_orange_700">#ff536946</color>
+  <color name="colors_orange_800">#ff40533a</color>
+  <color name="colors_orange_900">#ff2e3d29</color>
+  <color name="colors_coral_100">#fffef3f1</color>
+  <color name="colors_coral_200">#fffde2dd</color>
+  <color name="colors_coral_300">#fffbc4b7</color>
+  <color name="colors_coral_400">#fff7987f</color>
+  <color name="colors_coral_500">#fff16b4c</color>
+  <color name="colors_coral_600">#ffe84a2d</color>
+  <color name="colors_coral_700">#ffc33621</color>
+  <color name="colors_coral_800">#ffa12a1c</color>
+  <color name="colors_coral_900">#ff84231b</color>
+  <color name="colors_lavender_100">#fff8f6ff</color>
+  <color name="colors_lavender_200">#ffede8ff</color>
+  <color name="colors_lavender_300">#ffd8ccff</color>
+  <color name="colors_lavender_400">#ffbb9eff</color>
+  <color name="colors_lavender_500">#ff9b6bff</color>
+  <color name="colors_lavender_600">#ff8043ff</color>
+  <color name="colors_lavender_700">#ff6b2fff</color>
+  <color name="colors_lavender_800">#ff5722cc</color>
+  <color name="colors_lavender_900">#ff481ca6</color>
+</resources>
